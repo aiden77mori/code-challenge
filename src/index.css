@@ -1,0 +1,13 @@
+body {
+  min-height: 100vh;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  padding: 0;
+  margin: 0;
+}
+
+.root {
+  display: flex;
+  flex: 1;
+}
